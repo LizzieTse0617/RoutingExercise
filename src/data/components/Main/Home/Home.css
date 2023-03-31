@@ -1,0 +1,11 @@
+.home h2,
+.home p {
+  color: var(--highlight);
+  text-align: center;
+}
+
+.home {
+  background-color: var(--card);
+  text-align: center;
+  margin: 5rem 0;
+}
