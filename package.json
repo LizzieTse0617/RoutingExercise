@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "rm -rf ./dist/* && cp ./index.html ./dist/index.html && mkdir ./dist/src && cp -R ./src/* ./dist/",
+    "build": "rm -rf ./dist/* && cp ./index.html ./dist/index.html && cp -R ./src/* ./dist/",
     "preview": "vite preview"
   },
   "dependencies": {
